@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [a Linkedin easy job finder bot](https://github.com/AgustinCode/LinkedIn-Easy-Apply-Bot)
+- 🔭 I’m currently working on [Instagram giveaway bot](https://github.com/AgustinCode/Insta-giveaway-bot)
 
 - 🌱 I’m currently learning **Go, C++**
 
