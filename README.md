@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Instagram giveaway bot](https://github.com/AgustinCode/Insta-giveaway-bot)
+- 🔭 I’m currently working on Assembly Hardware information program
 
-- 🌱 I’m currently learning **Go, C++**
+- 🌱 I’m currently learning **Assembly, C++**
 
-- 👯 I’m looking to collaborate **on some simple projects to learn**
+- 👯 I’m looking to collaborate **with anyone, let's code!**
 
 - 🤝 I’m looking for help with [C++ WinApi and System](https://github.com/AgustinCode/hardware-information)
-
-- 💬 Ask me about **Python and C**
 
 - 📫 How to reach me **relaxingscript@gmail.com**
 
@@ -23,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/aguss.193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aguss.193" height="30" width="40" /></a>
+<a href="https://instagram.com/22.roodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22.roodriguez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
