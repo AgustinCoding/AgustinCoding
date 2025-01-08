@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">A passionate automation, bots and software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agustincode&label=Profile%20views&color=0e75b6&style=flat" alt="agustincode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AgustinCoding&label=Profile%20views&color=0e75b6&style=flat" alt="AgustinCoding" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agustincode" alt="agustincode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AgustinCoding" alt="AgustinCoding" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
