@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sophie</h1>
+<h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">A passionate automation, bots and software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustincode&label=Profile%20views&color=0e75b6&style=flat" alt="agustincode" /> </p>
@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Assembly Hardware information program
-
 - 🌱 I’m currently learning **Assembly, C++**
 
 - 👯 I’m looking to collaborate **with anyone, let's code!**
 
 - 🤝 I’m looking for help with [C++ WinApi and System](https://github.com/AgustinCode/hardware-information)
 
-- 📫 How to reach me **relaxingscript@gmail.com**
+- 📫 How to reach me **relaxingscript@gmail.com**, WhatsApp: **+598 98 609 120**
 
 - ⚡ Fun fact **I regret using AI for coding**
 
