@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Assembly, C++**
+- 🌱 I’m currently learning **Assembly && C++**
 
 - 👯 I’m looking to collaborate **with anyone, let's code!**
 
-- 🤝 I’m looking for help with [C++ WinApi and System](https://github.com/AgustinCode/hardware-information)
+- 🤝 I’m looking for help with **Assembly && advanced memory manipulation**
 
 - 📫 How to reach me **relaxingscript@gmail.com**, WhatsApp: **+598 98 609 120**
-
-- ⚡ Fun fact **I regret using AI for coding**
 
 
 <h3 align="left">Languages i use:</h3>
