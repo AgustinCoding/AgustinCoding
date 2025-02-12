@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">A passionate automation, bots and software developer</h3>
-<h5 align="center">Mainly focused on low level languages | C++ enjoyer</h5>
+<h5 align="center">Adapting to every environment, thinking of every solution</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AgustinCoding&label=Profile%20views&color=0e75b6&style=flat" alt="AgustinCoding" /> </p>
 
