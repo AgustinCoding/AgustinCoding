@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate **with anyone, let's code!**
+- 👯 I’m looking to collaborate **with anyone!**
 
-- 📫 How to reach me **agustinrodriguezperez@hotmail.com**, WhatsApp: **+598 98 609 120**
+- 📫 How to reach me **agustinrodriguezperez@hotmail.com**
 
 
 <h3 align="left">Languages i use:</h3>
