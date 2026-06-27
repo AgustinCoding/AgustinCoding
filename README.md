@@ -1,25 +1,21 @@
-# Hi, I'm Agustin 👋
+# Hi, I'm Agustin -
 
-Software developer passionate about automation, systems programming and desktop applications.
+Software developer passionate about computer science, low-level programming and general software development
 
-## About Me
+## About Me -
 
-* 💻 Mainly working with **C++, Go and Python**
-* 🌱 Currently learning **C and low-level programming**
-* 🚀 Interested in automation, reverse engineering and systems development
-* 📚 Always building and learning new things
+* 💻 Mainly working with **C++ and Java**
+* 💻 Currently learning **C and low-level programming**
 
-## Tech Stack
+## Tech Stack -
 
-`C++` `Go` `Python` `Java` `Linux` `Git` `CMake` `SQLite`
+`C++` `Java` `Linux` `Windows` `Git` `CMake` `SQL` `Maven` `VSCODE2022` 
 
-## GitHub Stats
+## GitHub Stats -
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AgustinCoding&show_icons=true&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinCoding&layout=compact&hide_border=true" height="165"/>
 </p>
 
-## Contact
 
-📫 **[agustinrodriguezperez@hotmail.com](mailto:agustinrodriguezperez@hotmail.com)**
