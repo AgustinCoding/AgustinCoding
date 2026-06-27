@@ -1,97 +1,25 @@
-# Hi 👋, I'm Agustin
+# Hi, I'm Agustin 👋
 
-### A passionate automation, bots and software developer
-##### Adapting to every environment, thinking of every solution
+Software developer passionate about automation, systems programming and desktop applications.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AgustinCoding&label=Profile%20views&color=0e75b6&style=flat" alt="AgustinCoding" />
+## About Me
+
+* 💻 Mainly working with **C++, Go and Python**
+* 🌱 Currently learning **C and low-level programming**
+* 🚀 Interested in automation, reverse engineering and systems development
+* 📚 Always building and learning new things
+
+## Tech Stack
+
+`C++` `Go` `Python` `Java` `Linux` `Git` `CMake` `SQLite`
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinCoding&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinCoding&layout=compact&hide_border=true" height="165"/>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api/?username=AgustinCoding&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="AgustinCoding" />
-  </a>
-</p>
+## Contact
 
-## 🚀 About Me
-
-- 🌱 I'm currently learning **C and low level programming**
-- 👯 I'm looking to collaborate **with anyone!**
-- 📫 How to reach me: **agustinrodriguezperez@hotmail.com**
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-  <!-- Development Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
-  </a>
-  
-  <!-- IDEs -->
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="clion" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
-  </a>
-  
-  <!-- Operating System -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="40" height="40"/>
-  </a>
-  
-  <!-- Database -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinCoding&show_icons=true&locale=en&layout=compact&theme=default" alt="AgustinCoding" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgustinCoding&show_icons=true&locale=en&theme=default" alt="AgustinCoding" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinCoding&theme=default" alt="AgustinCoding" />
-</div>
-
-## 🤝 Connect with me
-
-<p align="left">
-  <a href="mailto:agustinrodriguezperez@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-<p align="center">💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</p>
+📫 **[agustinrodriguezperez@hotmail.com](mailto:agustinrodriguezperez@hotmail.com)**
